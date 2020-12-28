@@ -3,7 +3,7 @@
 # Xiao
 [![Build Status](https://github.com/dragonfire535/xiao/workflows/Lint/badge.svg?branch=master&event=push)](https://github.com/dragonfire535/xiao/actions)
 [![Donate on PayPal](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/dragonfire535)
-[![Discord](https://discordapp.com/api/guilds/252317073814978561/embed.png)](https://discord.gg/tAsgSHm)
+[![Discord](https://discordapp.com/api/guilds/715302731916771497/embed.png)](https://discord.gg/tAsgSHm)
 
 Xiao is a Discord bot coded in JavaScript with
 [discord.js](https://discord.js.org/) using the
