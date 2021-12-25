@@ -31,7 +31,7 @@
 		"node": ">=15"
 	},
 	"dependencies": {
-		"@discordjs/collection": "^0.1.6",
+		"@discordjs/collection": "^0.3.2",
 		"@discordjs/opus": "^0.3.3",
 		"@vitalets/google-translate-api": "^4.0.0",
 		"aki-api": "^5.2.0",
