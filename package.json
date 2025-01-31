@@ -32,7 +32,7 @@
 	},
 	"dependencies": {
 		"@discordjs/collection": "^0.1.6",
-		"@discordjs/opus": "^0.3.3",
+		"@discordjs/opus": "^0.10.0",
 		"@vitalets/google-translate-api": "^4.0.0",
 		"aki-api": "^5.2.0",
 		"canvas": "^2.6.1",
